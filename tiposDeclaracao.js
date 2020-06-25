@@ -12,3 +12,4 @@ const sub = function(x, y){
 const mult = function mult(x, y){
     return x * y
 }
+
